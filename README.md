@@ -1,5 +1,5 @@
-## ⚠ Not Actively Maintained
-> **This repository is not actively maintained by the OMF and has been archived. It may be reactivated when there is more interest in maintaining it from the MDS community.**
+## Maintained by DataGovs 
+> **This repository is made active DataGovs for the MDS community through [Download App](https://apps.apple.com/us/app/datagovsmonitor/id1631878976) and contact team at Team@DataGovs.com to get your public feed live.
 
 # Mobility Data Specification
 
