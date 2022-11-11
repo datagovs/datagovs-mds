@@ -19,8 +19,8 @@ through testing and validation for free on iOS or Android.
 ### Getting Started 
 
 * [Get Started with Open Source for MDS Compliance Monitoring](https://github.com/datagovs/mds-compliance-mobile/wiki)
-* [Get Started using DataGovs for MDS Compliance Monitoring](https://datagovs.com/get-started)
-* [Install DataGovs Mobile - Connected account required ](https://apps.apple.com/us/app/datagovsmonitor/id1631878976)
+* [Get Started using DataGovs for MDS Compliance Monitoring](https://datagovs.com/mds-monitoring)
+
 
 ### Join the DataGovs community
 
